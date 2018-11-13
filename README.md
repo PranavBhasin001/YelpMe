@@ -33,9 +33,13 @@ For example, downtown restaurants are colored green. The user that generated thi
   * Alternatively, we could use a modified form of Euclidean Distance to simulate the difference due to the curvature of the Earth.
   
 **2. Limited Dataset**
-  * The academic dataset is limited to 30 cities near Universities and we are currently only using data for the Berkeley. The Yelp API could be utilized to expand the scope of this project
+  * The academic dataset is limited to 30 cities near Universities and we are currently only using data for the Berkeley. The Yelp API could be utilized to expand the scope of this project.
 
 ## <a name ="var"></a> Future Prospects
+* More advanced visualizations such as power diagram or other weighted Voronoi diagrams can be substituted in place of the default map.
+* We could use the Yelp API to make suggestions based on their own Yelp ratings.
+* We can learn about and implement additional clustering and regression machine learning algorithms.
+* We can use additional data provided with the Yelp academic dataset to improve suggestions.
 
 [Voronoi tessellation]: https://en.wikipedia.org/wiki/Voronoi_diagram
 [Euclidean Distance]: https://en.wikipedia.org/wiki/Voronoi_diagram
