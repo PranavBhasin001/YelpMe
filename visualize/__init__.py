@@ -3,7 +3,7 @@ import json
 import webbrowser
 import socket
 
-from abstractions import *
+from datastructures import *
 from utils import distance
 
 def draw_map(centroids, restaurants, ratings):
