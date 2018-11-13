@@ -7,6 +7,7 @@
   * [Project Demo](#proj-demo)
   * [Limitations](#lim)
   * [Future Prospects](#var)
+  * [Appendix](#app)
   
 
 ## <a name ="team-members"></a> Collaborators
@@ -57,9 +58,17 @@ For example, downtown restaurants are colored green. The user that generated thi
 * We can learn about and implement additional clustering and regression machine learning algorithms.
 * We can use additional data provided with the Yelp academic dataset to improve suggestions.
 
+## <a name ="app"></a> Appendix
+* [Inferential Thinking: Chapter 15.4 (Least Squares Regression)]
+* [UC Berkeley CS 61A: Structure and Interpretation of Computer Programs: Project Maps]
+
+
 [Voronoi tessellation]: https://en.wikipedia.org/wiki/Voronoi_diagram
 [Euclidean Distance]: https://en.wikipedia.org/wiki/Voronoi_diagram
 [Hamming Distance]: https://en.wikipedia.org/wiki/Voronoi_diagram
 [Manhattan Distance]: https://en.wikipedia.org/wiki/Voronoi_diagram
 [Pranav Bhasin]: https://github.com/PranavBhasin001
 [Muskaan Goyal]: https://github.com/muskaangoyal
+[UC Berkeley CS 61A: Structure and Interpretation of Computer Programs: Project Maps]: https://cs61a.org/
+[Inferential Thinking: Chapter 15.4 (Least Squares Regression)]: https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression
+
