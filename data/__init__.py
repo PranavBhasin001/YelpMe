@@ -1,7 +1,7 @@
 import collections
 import os
 
-from abstractions import *
+from datastructures import *
 import data.jsonl
 
 DATA_DIRECTORY = 'data'
