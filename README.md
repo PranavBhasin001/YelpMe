@@ -10,6 +10,8 @@
   
 
 ## <a name ="team-members"></a> Collaborators
+* [Pranav Bhasin]
+* [Muskaan Goyal]
 
 ## <a name ="intro"></a> Introduction
 In this project, we attempt to create an accurate visualization of restaurant ratings using the [Yelp academic dataset]. We implement this idea using a [Voronoi tessellation]-based visualization of restaurants in the city, clustering restaurants using [K-Means] algorithm on the basis of their proximity to other restaurants and using Linear Regression to predict a user's ratings, to display the nearest restaurants to locations on the basis of their preference to the user.
@@ -39,3 +41,5 @@ For example, downtown restaurants are colored green. The user that generated thi
 [Euclidean Distance]: https://en.wikipedia.org/wiki/Voronoi_diagram
 [Hamming Distance]: https://en.wikipedia.org/wiki/Voronoi_diagram
 [Manhattan Distance]: https://en.wikipedia.org/wiki/Voronoi_diagram
+[Pranav Bhasin]: https://github.com/PranavBhasin001
+[Muskaan Goyal]: https://github.com/muskaangoyal
