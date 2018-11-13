@@ -1,6 +1,6 @@
 """YelpMe is a Yelp powered Restaurant Recommendation Program"""
 
-from abstractions import *
+from datastructures import *
 from data import ALL_RESTAURANTS, CATEGORIES, USER_FILES, load_user_file
 from main import main, trace, interact
 from utils import distance, mean, zip, enumerate, sample
