@@ -2,7 +2,7 @@
 
 from abstractions import *
 from data import ALL_RESTAURANTS, CATEGORIES, USER_FILES, load_user_file
-from ucb import main, trace, interact
+from main import main, trace, interact
 from utils import distance, mean, zip, enumerate, sample
 from visualize import draw_map
 
