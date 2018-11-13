@@ -84,4 +84,4 @@ def restaurant_price(restaurant):
 def restaurant_ratings(restaurant):
     """Return a list of ratings, which are numbers from 1 to 5, of the
     restaurant based on the reviews of the restaurant."""
-    return restaurant['ratings']
+    return [review_rating(x) for x in restaurant['reviews']]
